@@ -1,0 +1,31 @@
+party_id,project_id,party,inventory_year,submission_year,btr_cycle,title_of_activity,time_frame,recipient_entity,implementing_entity,type_of_support,sector,subsector,activity_status,impact_and_results,additional_information
+201,6201,Uruguay,2022,2025,BTR 1,Policy and Regulation for Solar,2025-2026,Ministry of Energy,Germany (via GIZ),Mitigation,Energy,Solar,Ongoing,Enhanced policy and regulatory framework.,Null
+202,6202,Mauritius,2022,2025,BTR 1,Coastal Resilience Planning,2024-2025,Ministry of Environment,Japan (via JICA),Adaptation,Coastal,Coastal Management,Ongoing,Climate resilience is now being mainstreamed.,Null
+203,6203,Argentina,2022,2025,BTR 1,Climate-Smart Agriculture Training,2025-2027,Ministry of Agriculture,Sweden (via Sida),Adaptation,Agriculture,Sustainable Farming,Ongoing,Improved farming practices among participating farmers.,Null
+204,6204,Pakistan,2022,2025,BTR 1,Disaster Risk Reduction Training,2024-2026,National Disaster Management Agency,Switzerland (via SDC),Adaptation,Water,Flood Resilience,Ongoing,Strengthened institutional capacity for disaster response.,Null
+205,6205,Brazil,2022,2025,BTR 1,Satellite Forest Monitoring,2025-2028,Ministry of Environment,Norway,Mitigation,Forestry,Forest Monitoring,Planned,Expected to improve forest monitoring systems.,Null
+206,6206,Nigeria,2022,2025,BTR 1,Rural Electrification Strategy,2024-2026,Ministry of Power,Japan (via JICA),Mitigation,Energy,Off-grid Solutions,Ongoing,Strategy development is in progress.,Null
+207,6207,Colombia,2022,2025,BTR 1,Green Transport Planning,2024-2025,Ministry of Transport,Germany (via GIZ),Mitigation,Transport,Public Transit,Ongoing,New low-carbon transport plan is being drafted.,Null
+208,6208,Vietnam,2022,2025,BTR 1,Ecosystem Restoration Management,2025-2028,Ministry of Natural Resources,Finland,Adaptation,Coastal,Mangrove Restoration,Planned,Will support mangrove restoration efforts.,Null
+209,6209,Mexico,2022,2025,BTR 1,Municipal Waste Management Training,2026-2029,Ministry of Environment,France (via AFD),Mitigation,Waste,Waste Management,Planned,Will improve urban waste management systems.,Null
+210,6210,Indonesia,2022,2025,BTR 1,Geothermal Project Management,2025-2028,Ministry of Energy,Japan (via JICA),Mitigation,Energy,Geothermal,Planned,Aims to accelerate geothermal project deployment.,Null
+211,6211,Peru,2022,2025,BTR 1,Sustainable Forest Management,2024-2026,Ministry of Environment,Switzerland (via SDC),Mitigation,Forestry,Forest Management,Ongoing,Strengthened national forest management capacity.,Null
+212,6212,Chile,2022,2025,BTR 1,EV Policy and Regulation,2025-2027,Ministry of Transport,Germany (via GIZ),Mitigation,Transport,E-mobility,Ongoing,New EV policies are being developed.,Null
+213,6213,Ethiopia,2022,2025,BTR 1,Water Management Training,2024-2026,Ministry of Agriculture,Switzerland (via SDC),Adaptation,Agriculture,Irrigation,Completed,Farmers have adopted more efficient irrigation methods.,Null
+214,6214,Kenya,2022,2025,BTR 1,Geothermal Engineering Skills,2025-2028,Geothermal Power Company,Japan (via JICA),Mitigation,Energy,Geothermal,Planned,Will increase local technical expertise.,Null
+215,6215,Ghana,2022,2025,BTR 1,Recycling Policy Support,2026-2029,Ministry of Sanitation,Sweden (via Sida),Mitigation,Waste,Recycling,Planned,Expected to lead to a new national recycling policy.,Null
+216,6216,South Africa,2022,2025,BTR 1,Just Transition Planning,2025-2030,Ministry of Labor,France (via AFD),Mitigation,Energy,Coal phase-out,Ongoing,A national task force has been established.,Null
+217,6217,Bangladesh,2022,2025,BTR 1,Community-Based Adaptation,2025-2028,Local Governance Forum,Japan (via JICA),Adaptation,Water,Flood Resilience,Planned,Will enhance community-level preparedness.,Null
+218,6218,Thailand,2022,2025,BTR 1,Offshore Wind Development,2024-2025,Ministry of Energy,Denmark,Mitigation,Energy,Wind,Completed,Project management skills have been transferred.,Null
+219,6219,Philippines,2022,2025,BTR 1,Disaster Risk Management Training,2024-2026,National Disaster Agency,Australia,Adaptation,Coastal,Disaster Risk,Ongoing,Improved disaster response coordination.,Null
+220,6220,Ethiopia,2022,2025,BTR 1,Climate-Smart Farming Strategy,2025-2028,Ministry of Agriculture,Germany (via GIZ),Adaptation,Agriculture,Climate-Smart Farming,Planned,Expected to lead to a national strategy.,Null
+221,6221,Senegal,2022,2025,BTR 1,Mini-grid Business Models,2025-2027,Ministry of Energy,France (via AFD),Mitigation,Energy,Mini-grids,Ongoing,Pilot business models are being tested.,Null
+222,6222,Morocco,2022,2025,BTR 1,Public Transport Planning,2024-2026,Ministry of Transport,Germany (via GIZ),Mitigation,Transport,Public Transit,Ongoing,Urban mobility plan is being updated.,Null
+223,6223,Tunisia,2022,2025,BTR 1,Water Management Training,2026-2029,Water Utility,Japan (via JICA),Adaptation,Water,Wastewater Treatment,Planned,Will enhance water management practices.,Null
+224,6224,Bolivia,2022,2025,BTR 1,Agroforestry Programme Development,2024-2027,Ministry of Environment,Sweden (via Sida),Cross-cutting,Forestry,Agroforestry,Ongoing,Local communities are now managing agroforestry plots.,Null
+225,6225,Lebanon,2022,2025,BTR 1,Off-Grid Solar Installation,2024-2025,Ministry of Energy,Switzerland (via SDC),Mitigation,Energy,Solar,Completed,A cohort of technicians is now certified for installation.,Null
+226,6226,Jordan,2022,2025,BTR 1,Water Governance,2025-2026,Water Authority,Japan (via JICA),Adaptation,Water,Water Scarcity,Ongoing,New water governance policies are being drafted.,Null
+227,6227,Costa Rica,2022,2025,BTR 1,Forest Law Enforcement,2024-2025,Ministry of Environment,Norway,Mitigation,Forestry,Forest Protection,Completed,Enforcement capacity has been strengthened.,Null
+228,6228,Rwanda,2022,2025,BTR 1,Soil Restoration Training,2025-2027,Ministry of Agriculture,Germany (via GIZ),Adaptation,Agriculture,Soil health,Planned,Aims to improve soil management.,Null
+229,6229,Uganda,2022,2025,BTR 1,Solar Mini-grid Business Models,2024-2026,Rural Electrification Agency,Green Climate Fund,Mitigation,Energy,Mini-grids,Ongoing,Several mini-grid projects are in development.,Null
+230,6230,Zambia,2022,2025,BTR 1,Solar Energy Strategy,2024-2026,Ministry of Energy,Finland,Mitigation,Energy,Solar,Ongoing,National solar energy targets have been set.,Null
